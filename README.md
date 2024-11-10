@@ -2,7 +2,7 @@
 
 A high-performance web application to backtest and analyze trading strategies, built using [Vite](https://vitejs.dev/), [Next.js](https://nextjs.org/), and [TailwindCSS](https://tailwindcss.com/). This platform enables users to test various trading strategies on historical market data, visualize results, and refine strategies for optimal performance.
 
-![Dashboard](https://drive.google.com/file/d/1yuP8pepFQuovvb5CCGcY2TwTt5yR7O32/view?usp=sharing)
+![Dashboard](/public/dashboard.jpg)
 
 ## Table of Contents
 
